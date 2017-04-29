@@ -10,6 +10,8 @@
 <div class="titulo">
 	<h1>Resultado</h1>
 </div>
+
+
 <div class="conteudo">
 	<h4>Qual o seu personagem favorito da série The Big Bang Teory?</h4>
 	<form method="get" action="resEnquete" >
