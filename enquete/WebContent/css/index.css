@@ -1,0 +1,50 @@
+
+.titulo{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	color: white;
+	background-color: gray;
+}
+
+.conteudo{
+
+	width: 100%;
+	height: 100%;
+	padding-top: 10px;
+	padding-left: 33%;
+	padding-right: 33%;
+}
+
+.candidatos{
+	border: 0px;
+	width: 33%;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+.candidatos tr{
+	/*border-bottom: 2px solid lightgray;*/
+}
+
+.candidatos img{
+    border-radius: 50%;
+}
+
+.candidatos button{
+    border-radius: 50%;
+}
+
+.candidato{
+	width: 70px;
+	height: 70px;
+}
+
+.like{
+	width: 30px;
+	height: 30px
+}
+
+
