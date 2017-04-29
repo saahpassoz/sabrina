@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+	body {
+		font-family: sans-serif;
+		background-image: url("imagem/fundo.jpg");
+	}
+
+	h2{
+		text-align: center;
+		background-color: maroon;
+		color: white;
+	}
+	
+	
+	table{
+		margin-left: 110px;
+		margin-right: 0px;
+		margin-top: 5px;
+		width: 1100px;
+		height: 500px;
+		
+		background-color: white;
+	}
+	
+	a{
+		text-decoration: none;
+	}
+	
+	p{
+		font-size: 20px;
+	}
