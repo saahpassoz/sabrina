@@ -7,6 +7,8 @@
 <link rel="stylesheet" type="text/css" href="index.css"/>
 </head>
 <body>
+
+
 	<table>
 		<tr>
 			<td><h2>Total do pedido:</h2></td>
@@ -24,5 +26,7 @@
 			</td>
 		</tr>
 	</table>
+	
+	
 </body>
 </html>
